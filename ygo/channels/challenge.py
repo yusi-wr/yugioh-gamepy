@@ -1,6 +1,5 @@
 from babel.dates import format_time
 import copy
-
 from ..channel import Channel, NO_ESCAPE
 
 class Challenge(Channel):
